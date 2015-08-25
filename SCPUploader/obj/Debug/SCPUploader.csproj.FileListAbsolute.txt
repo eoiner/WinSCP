@@ -1,0 +1,8 @@
+C:\Development\SCPUploader\SCPUploader\bin\Debug\SCPUploader.exe.config
+C:\Development\SCPUploader\SCPUploader\bin\Debug\WinSCP.exe
+C:\Development\SCPUploader\SCPUploader\bin\Debug\SCPUploader.exe
+C:\Development\SCPUploader\SCPUploader\bin\Debug\SCPUploader.pdb
+C:\Development\SCPUploader\SCPUploader\bin\Debug\WinSCPnet.dll
+C:\Development\SCPUploader\SCPUploader\obj\Debug\SCPUploader.csprojResolveAssemblyReference.cache
+C:\Development\SCPUploader\SCPUploader\obj\Debug\SCPUploader.exe
+C:\Development\SCPUploader\SCPUploader\obj\Debug\SCPUploader.pdb
